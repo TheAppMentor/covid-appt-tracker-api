@@ -15,7 +15,7 @@
   },
   "production": {
     "username": "Prashanth",
-    "password": null,
+    "password": "dummypassword_$$_1",
     "database": "covid_tracker_prod",
     "host": "127.0.0.1",
     "dialect": "postgres",
