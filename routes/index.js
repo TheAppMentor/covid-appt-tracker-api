@@ -14,6 +14,7 @@ router.get("/", function (req, res, next) {
     //res.render('index', { title: 'Express' });
 });
 
+
 /* GET Cowin Data. */
 router.get("/data", function (req, res, next) {
     fetch(
